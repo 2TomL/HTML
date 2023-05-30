@@ -1,0 +1,24 @@
+body > div {
+    height: 100px;
+    border: 2px dashed black;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body > div > div {
+    width: 33%;
+}
+
+body > div > div:nth-child(1){
+    background-color: black;
+}
+
+body > div > div:nth-child(2){
+    background-color: yellow;
+}
+
+body > div > div:nth-child(3){
+    background-color: red;
+}

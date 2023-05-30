@@ -1,0 +1,85 @@
+body {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightyellow;
+}
+h1 {
+    color: red;
+}
+span {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+.div {
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 10px;
+    margin: 20px;
+    border: solid;
+    border-color: red;
+    background-color: orange;
+    opacity: 0.75;
+}
+.footer {
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: red;
+
+    text-align: center;
+}
+.spelling {
+    text-decoration: red wavy underline;
+}
+.navigatie {
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px dotted red;
+
+    background-color: lightyellow;
+}
+ul {
+    font-size: 1.5em;
+}
+li {
+    list-style-image: url(../afbeeldingen/listIcon.png);
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14%;
+}
+.bang {
+    float: right;
+    height: 180px;
+}
+.floatLeft {
+    float: left;
+}
+#cover8man {
+    /* width: 200px; */
+    height: 190px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+#coverGreenLama {
+    height: 180px;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+#coverStardust {
+    height: 110px;
+    padding: 20px 20px 0px 20px;
+}

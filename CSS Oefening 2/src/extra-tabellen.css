@@ -1,0 +1,11 @@
+table caption{
+    border-bottom: 8px solid black;
+}
+
+table {
+    border-bottom: 8px solid black;
+}
+
+table thead tr th{
+    border-bottom: 1px solid black;
+}

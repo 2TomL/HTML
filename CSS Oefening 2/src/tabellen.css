@@ -1,0 +1,39 @@
+.tabel {
+    border: solid 2px black;
+}
+
+.tabel td{
+    width: 55px;
+
+    border: solid 2px black;
+}
+
+/*
+.tabel tr :nth-child(1)
+*/
+.left{
+    text-align: left;
+}
+
+/*
+.tabel tr :nth-child(2)
+*/
+.middle{
+    text-align: center;
+}
+
+/*
+.tabel tr :nth-child(3)
+*/
+.right{
+    text-align: right;
+}
+
+thead{
+    width: 100%;
+}
+
+
+.tabel4 tr:hover{
+    background-color: grey;
+}
